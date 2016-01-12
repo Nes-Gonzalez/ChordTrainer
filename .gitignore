@@ -47,3 +47,4 @@ gradle/
 gradlew
 settings.gradle
 gradlew.bat
+build/
